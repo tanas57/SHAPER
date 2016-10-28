@@ -1,0 +1,6 @@
+c:\users\anonymous\documents\visual studio 2015\Projects\Project1 - Shaper\Project1 - Shaper\bin\Debug\Project1 - Shaper.exe.config
+c:\users\anonymous\documents\visual studio 2015\Projects\Project1 - Shaper\Project1 - Shaper\bin\Debug\Project1 - Shaper.exe
+c:\users\anonymous\documents\visual studio 2015\Projects\Project1 - Shaper\Project1 - Shaper\bin\Debug\Project1 - Shaper.pdb
+c:\users\anonymous\documents\visual studio 2015\Projects\Project1 - Shaper\Project1 - Shaper\obj\Debug\Project1 - Shaper.csprojResolveAssemblyReference.cache
+c:\users\anonymous\documents\visual studio 2015\Projects\Project1 - Shaper\Project1 - Shaper\obj\Debug\Project1 - Shaper.exe
+c:\users\anonymous\documents\visual studio 2015\Projects\Project1 - Shaper\Project1 - Shaper\obj\Debug\Project1 - Shaper.pdb
