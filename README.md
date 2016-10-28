@@ -1,8 +1,8 @@
-# shaper
+# Shaper
 Shaper, is a game, which is created "X0".So we can say that "0X Game"
 Project:  Shaper
 
-The aim of the project is to develop a one-player shape forming game. 
+##The aim of the project is to develop a one-player shape forming game.##
 
 Game Playing Rules
 
